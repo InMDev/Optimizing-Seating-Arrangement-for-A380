@@ -10,6 +10,12 @@ regularization as a soft constraint for seating partitions was found to yield th
 balance of well-placed seat classes and high revenue following simulated ticket buying
 trials.
 
+![Image Description](images/seat-main-hor.png)
+![Image Description](images/seat-upper-hor.png)
+
+# Greedy Solution
+
+
 ---
 
 # References
