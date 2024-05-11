@@ -14,10 +14,22 @@ trials.
 ![Upper Deck - Sections](images/seat-upper-hor.png)
 
 # Greedy Solution
+The initial idea was to sort the area from smallest to largest and sort the demand (size
+of each class) weight vector based on the index of the highest profit to lowest profit.
+Then, iteratively fill the area with the new demand starting from the highest cost to
+lowest cost while checking the weight, area, and demand constraints. Each iteration
+reduced the demand until no more seats fit based on the constraints
+<div align="center">
+  <img src="images/greedy.png" alt="Solution">
+</div>
 
-![Solution](images/greedy.png)
 ![Main Deck - Sections](images/greedy-main.png)
 ![Upper Deck - Sections](images/greedy-upper.png)
+
+# Other Method considered (Linear Programming, Integer Programming & Regularized Integer Programming)
+<div align="center">
+  <img src="images/comparison" alt="Solution">
+</div>
 
 ---
 
