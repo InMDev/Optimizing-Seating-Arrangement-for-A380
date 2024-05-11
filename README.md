@@ -15,6 +15,9 @@ trials.
 
 # Greedy Solution
 
+![Image Description](images/greedy.png)
+![Image Description](images/greedy-main.png)
+![Image Description](images/greedy-upper.png)
 
 ---
 
