@@ -27,8 +27,9 @@ reduced the demand until no more seats fit based on the constraints
 ![Upper Deck - Sections](images/greedy-upper.png)
 
 # Other Method considered (Linear Programming, Integer Programming & Regularized Integer Programming)
+
 <div align="center">
-  <img src="images/comparison" alt="Solution">
+  <img src="images/comparison.png" alt="Solution">
 </div>
 
 ---
